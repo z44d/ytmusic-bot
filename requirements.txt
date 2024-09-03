@@ -1,0 +1,6 @@
+tgram
+yt-dlp
+ytmusicapi
+requests
+uvloop
+kvsqlite
