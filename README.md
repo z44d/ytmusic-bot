@@ -26,6 +26,7 @@ To get started, you'll need to install the following dependencies:
 - **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**: Utilized to download the music files.
 - **[kvsqlite](https://github.com/AYMENJD/Kvsqlite)**: An easy and simple SQLite key-value library for simple projects.
 - **[uvloop](https://github.com/MagicStack/uvloop)**: Ultra-fast asyncio event loop (only for Linux).
+- **[python-dotenv](https://github.com/theskumar/python-dotenv)**: Reads key-value pairs from a .env file.
 
 ## ⚠️ Note
 
